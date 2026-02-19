@@ -1,7 +1,3 @@
----
-config:
-  layout: elk
----
 flowchart TB
  subgraph L0["L0. 데이터 입수 영역 (NAS)"]
         NAS[("NAS 공유폴더<br>/inbound")]
