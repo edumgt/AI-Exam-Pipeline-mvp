@@ -1,0 +1,1 @@
+-- keep minimal; tables created by SQLAlchemy on startup

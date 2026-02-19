@@ -1,0 +1,14 @@
+fastapi==0.115.6
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+pydantic-settings==2.5.2
+SQLAlchemy==2.0.36
+psycopg2-binary==2.9.10
+alembic==1.14.0
+python-multipart==0.0.12
+celery==5.4.0
+redis==5.2.0
+orjson==3.10.11
+scikit-learn==1.5.2
+pandas==2.2.3
+numpy==2.1.3
