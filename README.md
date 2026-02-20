@@ -104,3 +104,4 @@ docker compose exec api python scripts/generate_sample_data.py
 # watcher 로그 확인
 docker compose logs -f watcher
 ```
+---
